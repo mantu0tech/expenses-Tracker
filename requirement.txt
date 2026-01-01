@@ -1,0 +1,25 @@
+thymeleaf ui 
+springboot backend 
+database mysql 
+maven >> used to build the application
+
+t orun the aplication we need 
+java 
+mvn  install 
+
+we need few extension >>>>>>
+Extension Pack for Java
+Spring Boot Extension Pack
+Maven for Java
+Docker (optional, only if using Docker)
+
+
+ADD The database details in the 
+
+src/main/resources/application.properties
+
+run using the maven 
+mvn spring-boot:run
+
+to run the project without installing the mvn use these 
+./mvnw spring-boot:run
